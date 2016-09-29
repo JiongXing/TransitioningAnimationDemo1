@@ -83,6 +83,3 @@ pictureView.center = startCenter;
 BOOL wasCancelled = [transitionContext transitionWasCancelled];
 [transitionContext completeTransition:!wasCancelled];
 ```
-
-项目源码：https://github.com/JiongXing/TransitioningAnimationDemo1
-下载：https://github.com/JiongXing/TransitioningAnimationDemo1/archive/master.zip
